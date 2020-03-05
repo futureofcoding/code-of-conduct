@@ -2,7 +2,7 @@
 
 Future of Coding is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that the common practice of programming is tragically less [humane](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) than it could be. There's a world of [possibilities](https://dynamicland.org) that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
 
-One of many principles held by the community is that computing currently reflects the interests of a narrow minority of people. A directed effort is needed to broaden the accessibility of computing and amplify the influence of historically under-represented people in shaping its future. This code of conduct is one part of that effort.
+One of many principles held by the community is that computing currently [reflects the interests](https://alarmingdevelopment.org/?p=1173) of a narrow minority of people. A directed effort is needed to broaden the accessibility of computing and amplify the influence of historically underrepresented people in shaping its future. This code of conduct is one part of that effort.
 
 It's called a "code of conduct" so that people are easily able to locate it, but don't get hung up on the name. The goal is that this document should help you feel more confident participating in our community by knowing what values we hold and how we express them.
 
