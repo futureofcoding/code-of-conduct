@@ -28,7 +28,7 @@ We encourage you to
 * Discuss politics, economics, class, representation, intersectionality, social movements and dynamics, and other related maters. Computing emerges from humanity, and thus societal context is essential for a full understanding of the issues faced by programmers and users now and in the future.
 
 We do not allow
-* Hurtful behaviour about or toward any person. This includes but is not limited to: ableism, homophobia, racism, sexism, transphobia, religious discrimination, violent language or threats, insults or name-calling, personal attacks, condescension, demeaning language, deliberate intimidation, discriminatory jokes or language.
+* Hurtful or unwelcoming behaviour about or toward any person. This includes but is not limited to: ableism, homophobia, racism, sexism, transphobia, religious discrimination, violent language or threats, sharing sexual images, insults or name-calling, personal attacks, condescension, demeaning language, deliberate intimidation, discriminatory jokes or language.
 
 We have zero tolerance for people who commit acts of harassment, hate speech, or abuse anywhere, whether inside or outside the community.
 
