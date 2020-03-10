@@ -24,7 +24,7 @@ Please note that all things posted to the community are public and may be shared
 
 We encourage you to
 * Discuss the work of community members in the ways that they invite. If someone asks broadly for feedback on their work, please be kind in your critique, focus on the work itself, and be constructive. If someone asks for a specific kind of feedback (like encouragement, or feedback on a specific aspect of the work), please respect that request.
-* Critique or criticize the material that other community members share links to, but please be respectful toward both the author of those materials and the person who shared them.
+* Critique or criticize the material that other community members share links to, but please [be respectful](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source) toward both the author of those materials and the person who shared them.
 * Discuss politics, economics, class, representation, intersectionality, social movements and dynamics, and other related maters. Computing emerges from humanity, and thus societal context is essential for a full understanding of the issues faced by programmers and users now and in the future.
 
 We do not allow
