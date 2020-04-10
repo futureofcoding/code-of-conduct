@@ -25,7 +25,7 @@ Please note that all things posted to the community are public and may be shared
 We encourage you to
 * Discuss the work of community members in the ways that they invite. If someone asks broadly for feedback on their work, please be kind in your critique, focus on the work itself, and be constructive. If someone asks for a specific kind of feedback (like encouragement, or feedback on a specific aspect of the work), please respect that request.
 * Critique or criticize the material that other community members share links to, but please [be respectful](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source) toward both the author of those materials and the person who shared them.
-* Discuss politics, economics, class, representation, intersectionality, social movements and dynamics, and other related maters. Computing emerges from humanity, and thus societal context is essential for a full understanding of the issues faced by programmers and users now and in the future.
+* Discuss politics, economics, social movements and dynamics, and other maters of the world around us as they relate to the interests of our community. The tools for thought we want to build aren't just to help us do more thinking about our tools. We're trying to make tools to help people solve real problems in the world. That means we need to be able to talk about these problems.
 
 We do not allow
 * Hurtful or unwelcoming behaviour about or toward any person. This includes but is not limited to: ableism, homophobia, racism, sexism, transphobia, religious discrimination, violent language or threats, sharing sexual images, insults or name-calling, personal attacks, condescension, demeaning language, deliberate intimidation, discriminatory jokes or language.
@@ -42,7 +42,7 @@ When responding to something that violates this code of conduct, moderators will
 * Temporarily or permanently remove severe or repeat offenders from all community-affiliated spaces.
 * Revise this code of conduct and notify the community of the change.
 
-If you see or experience a violation of this code of conduct, please report it to one of these moderators:
+If you see or experience a violation of this code of conduct, or if you are wondering whether something you'd like to share might run afoul, please talk to our moderator:
 
 * Ivan Reese (via Slack DM, [Twitter DM](https://twitter.com/spiralganglion), or [Email](mailto:ivanreese@gmail.com))
 
