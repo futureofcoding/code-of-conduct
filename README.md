@@ -2,7 +2,7 @@
 
 Future of Coding is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that the common practice of programming is tragically less [humane](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) than it could be. There's a world of [possibilities](https://dynamicland.org) that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
 
-One of many principles held by the community is that computing currently reflects the interests of a narrow minority of people. A directed effort is needed to broaden the accessibility of computing and amplify the influence of historically underrepresented people in shaping its future. This code of conduct is one part of that effort.
+One of many principles held by the community is that computing currently reflects the interests of a narrow minority of people. A directed effort is needed to broaden the accessibility of computing and amplify the influence of historically underrepresented people in shaping its future. Our community needs more gender diversity in particular, we're actively working to improve that. This code of conduct is one part of that effort.
 
 It's called a "code of conduct" so that people are easily able to locate it, but don't get hung up on the name. The goal is that this document should help you feel more confident participating in our community by knowing what values we hold and how we express them.
 
@@ -25,10 +25,10 @@ Please note that all things posted to the community are public and may be shared
 We encourage you to
 * Discuss the work of community members in the ways that they invite. If someone asks broadly for feedback on their work, please be kind in your critique, focus on the work itself, and be constructive. If someone asks for a specific kind of feedback (like encouragement, or feedback on a specific aspect of the work), please respect that request.
 * Critique or criticize the material that other community members share links to, but please [be respectful](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source) toward both the author of those materials and the person who shared them.
-* Discuss politics, economics, social movements and dynamics, and other maters of the world around us as they relate to the interests of our community. The tools for thought we want to build aren't just to help us do more thinking about our tools. We're trying to make tools to help people solve real problems in the world. That means we need to be able to talk about these problems.
+* Discuss politics, economics, representation, social movements and dynamics, and other maters of society and the world around us as they relate to the interests of our community. The tools for thought we want to build aren't just to help us do more thinking about our tools. We're trying to make tools to help people solve real problems in the world. That means we need to be able to talk about these problems. We also need to be able to recognize and discuss problems within our own cultures, like the lack of diversity.
 
 We do not allow
-* Hurtful or unwelcoming behaviour about or toward any person. This includes but is not limited to: ableism, homophobia, racism, sexism, transphobia, religious discrimination, violent language or threats, sharing sexual images, insults or name-calling, personal attacks, condescension, demeaning language, deliberate intimidation, discriminatory jokes or language.
+* Hurtful or unwelcoming behaviour about or toward any person. This includes but is not limited to: ableism, homophobia, racism, sexism, transphobia, religious discrimination, violent language or threats, sexual language or images, insults or name-calling, personal attacks, condescension, demeaning language, deliberate intimidation, discriminatory jokes or language.
 
 We have zero tolerance for people who commit acts of harassment, hate speech, or abuse anywhere, whether inside or outside the community.
 
@@ -38,7 +38,7 @@ When responding to something that violates this code of conduct, moderators will
 
 * Privately contact people to discuss the situation.
 * Discuss the situation openly with the community.
-* Delete posts or messages without notice.
+* Delete posts or messages with or without notice.
 * Temporarily or permanently remove severe or repeat offenders from all community-affiliated spaces.
 * Revise this code of conduct and notify the community of the change.
 
