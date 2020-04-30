@@ -61,3 +61,4 @@ This code of conduct was informed by and derives from:
 * https://wiki.openstreetmap.org/wiki/Etiquette
 * https://www.recurse.com/code-of-conduct
 * https://alarmingdevelopment.org/?p=1173
+* https://medium.com/bits-and-behavior/im-trans-call-me-amy-8a72a3951964
