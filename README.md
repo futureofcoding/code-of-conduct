@@ -44,7 +44,7 @@ When responding to something that violates this code of conduct, moderators will
 
 If you see or experience a violation of this code of conduct, or if you are wondering whether something you'd like to share might run afoul, please talk to our moderator:
 
-* Ivan Reese (via Slack DM, [Twitter DM](https://twitter.com/spiralganglion), or [Email](mailto:ivanreese@gmail.com))
+* Ivan Reese (@ivanreese in the Slack, or email [admin@futureofcoding.org](mailto:admin@futureofcoding.org))
 
 ### Thanks
 
