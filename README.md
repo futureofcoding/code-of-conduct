@@ -24,7 +24,7 @@ Please note that all things posted to the community are public and may be shared
 
 We encourage you to
 * Discuss the work of community members in the ways that they invite. If someone asks broadly for feedback on their work, please be kind in your critique, focus on the work itself, and be constructive. If someone asks for a specific kind of feedback (like encouragement, or feedback on a specific aspect of the work), please respect that request.
-* Critique or criticize the material that other community members share links to, but please [be respectful](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source) toward both the author of those materials and the person who shared them.
+* Critique the material that other community members share links to, but please [be respectful](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source) toward both the author of those materials and the person who shared them.
 * Discuss politics, economics, representation, social movements and dynamics, and other maters of society and the world around us as they relate to the interests of our community. The tools for thought we want to build aren't just to help us do more thinking about our tools. We're trying to make tools to help people solve real problems in the world. That means we need to be able to talk about these problems. We also need to be able to recognize and discuss problems within our own cultures, like the lack of diversity.
 
 We do not allow
