@@ -62,3 +62,4 @@ This code of conduct was informed by and derives from:
 * https://www.recurse.com/code-of-conduct
 * https://alarmingdevelopment.org/?p=1173
 * https://medium.com/bits-and-behavior/im-trans-call-me-amy-8a72a3951964
+* https://intenseminimalism.com/2020/the-impact-of-toxic-influencers-on-communities/
